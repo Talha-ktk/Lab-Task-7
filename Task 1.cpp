@@ -9,7 +9,7 @@ int main()
 	int arr[5] = {3,9,6,7,2};
 	
 	int sum = 0;
-	
+	//change
 	do
 	{
 		
